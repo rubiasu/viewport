@@ -204,7 +204,7 @@ img{
 
 /* ---------- SMALL SCREEN STYLES ---------- */
 /* --------------- BEGIN SMALL SCREEN SIZES --------------- */
-@media screen and (min-width: 620px) {
+@media screen and (min-width: 336px) {
     
     header, footer{
         background-color: var(--lime-green);
@@ -239,7 +239,7 @@ img{
 
 /* ---------- MEDIUM SCREEN STYLES ---------- */
 /* --------------- BEGIN MEDIUM SCREEN SIZES --------------- */
-@media screen and (min-width: 706px) {
+@media screen and (min-width: 620px) {
     
     header, footer{
         background-color: var(--black);
